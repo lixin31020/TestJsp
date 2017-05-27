@@ -15,6 +15,7 @@
     <tr>
       <th>命名</th>
       <td>你哈</td>
+      <<input type="button" value="提交" >
     </tr>
   </table>
   </body>
